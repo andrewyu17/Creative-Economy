@@ -4,6 +4,6 @@
 
 #### The data can be obtained from the Quarterly Census of Employment and Wages.
 
-#### The full paper can be read here... 
+#### The full paper can be read here: 
 
 https://ucreconomicforecast.org/wp-content/uploads/2022/04/UCR_WP_CreativeEconomy_April_2022_Final.pdf
